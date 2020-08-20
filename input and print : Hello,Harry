@@ -1,0 +1,9 @@
+program :
+# Read a string:
+a = input()
+print(a)
+
+output :
+Python 3.8.2 (default, Feb 26 2020, 02:56:10)
+ hello
+hello
