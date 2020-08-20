@@ -1,1 +1,14 @@
+program :
+# Read the numbers b and h like this:
+b = int(input())
+h = int(input())
+area = 0.5*b*h
+print(area)
 
+# Print the result with print()
+
+Output :
+Python 3.8.2 (default, Feb 26 2020, 02:56:10) 
+2
+3
+3.0
