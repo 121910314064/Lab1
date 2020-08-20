@@ -1,3 +1,4 @@
+Program :
 # This program reads two numbers and prints their sum:
 a = int(input())
 b = int(input())
@@ -6,3 +7,11 @@ sum = a+b+c
 print(sum)
 
 # Can you change it so it can read and sum three numbers?
+
+
+Output : 
+Python 3.8.2 (default, Feb 26 2020, 02:56:10) 
+ 2
+ 3
+ 6
+11
